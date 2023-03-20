@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ZT_QuaternionRotation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UE4Editor\Development\ZT_QuaternionRotation\Module.ZT_QuaternionRotation.cpp.obj"
+"C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UE4Editor\Development\ZT_QuaternionRotation\Module.ZT_QuaternionRotation.gen.cpp.obj"
+"C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UE4Editor\Development\ZT_QuaternionRotation\Default.rc2.res"
+/OUT:"C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UE4Editor\Development\ZT_QuaternionRotation\UE4Editor-ZT_QuaternionRotation.lib"
+/INCLUDE:IMPLEMENT_MODULE_ZT_QuaternionRotation

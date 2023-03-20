@@ -1,0 +1,6 @@
+C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UE4Editor\Development\ZT_QuaternionRotation\Definitions.ZT_QuaternionRotation.h
+C:/Users/morga/Downloads/Z_TRACKER_V2-20230319T202617Z-001/Z_TRACKER_V2/Plugins/ZT_QuaternionRotation/Source/ZT_QuaternionRotation/Private/ZT_QuaternionRotation.cpp
+C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Source\ZT_QuaternionRotation\Public\ZT_QuaternionRotation.h
+C:/Users/morga/Downloads/Z_TRACKER_V2-20230319T202617Z-001/Z_TRACKER_V2/Plugins/ZT_QuaternionRotation/Source/ZT_QuaternionRotation/Private/ZT_QuaternionRotationBPLibrary.cpp
+C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Source\ZT_QuaternionRotation\Public\ZT_QuaternionRotationBPLibrary.h
+C:\Users\morga\Downloads\Z_TRACKER_V2-20230319T202617Z-001\Z_TRACKER_V2\Plugins\ZT_QuaternionRotation\Intermediate\Build\Win64\UE4Editor\Inc\ZT_QuaternionRotation\ZT_QuaternionRotationBPLibrary.generated.h
